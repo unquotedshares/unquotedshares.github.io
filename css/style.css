@@ -216,6 +216,7 @@ marquee li {
 .list li{
   display: inline-block;
   width: 49%;
+  font-size: 16px;
 }
 .map{
   margin: 15px 0 30px 0;
